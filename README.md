@@ -1,10 +1,9 @@
 # Site web du projet Exercice1
 H25-2PR-GR-1293
-
-## Initialiser un repository
-## Configurer .gitignore, liscence MIT
-## Collaborer à plusieurs dans le meme projet
-## Fait un commit : modification + message + emprunte
-## Créer des brances/Fork
-## Pull request : Fusionner ces branches
-## Modifier le readme.md et le publier dans serveur WEB
+##creer un repository depuis sa machine
+##publier sur github 
+##ajouter des collaborateurs
+##les colaborateurs vont cloner le projet remote
+##chacun il cree une branche vous faites qqs commits depuis le projet local
+##pull request 
+##fusionner les branches 
